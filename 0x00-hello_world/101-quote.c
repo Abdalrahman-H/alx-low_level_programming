@@ -5,7 +5,7 @@
  *
  * Description: this program is print some words
  *
- * Return: Always 1 (Success)
+ * Return: 1 (Unsuccess)
  */
 
 int main(void)
