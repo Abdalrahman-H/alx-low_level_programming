@@ -1,4 +1,3 @@
-#include "main.h"
 
 /**
  * times_table - prints the 0 times table
