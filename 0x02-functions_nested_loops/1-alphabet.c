@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- *  main - Entry point
- *
- *  Desciption: this programm for  print alphabet form a to z
- *
+ *  print_alphabet - utilizes on the _putchar function to print
+ *  		the alphabet a- z
  *  Return: Always 0 (Success)
  */
 
