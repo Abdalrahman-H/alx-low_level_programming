@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  *  main - Entry point
  *
- *  Desciption: this programm for pring random value and display result
+ *  Desciption: this programm
  *
  *  Return: Always 0 (Success)
  */
