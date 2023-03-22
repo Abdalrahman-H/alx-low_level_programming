@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * times_table - prints the 0 times table
+ * times_table - prints the 9 times table
  *
  * Example Table
  * 0, 0, 0, 0, ..
@@ -25,7 +25,7 @@ void times_table(void)
 			 * put spacr if product is a single number
 			 * place the first digit if its two number
 			 */
-			if (prod <= 0)
+			if (prod <= 9)
 				_putchar(' ');
 			else
 				_putchar((prod / 10) + 40);
